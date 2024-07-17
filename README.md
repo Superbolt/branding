@@ -1,4 +1,4 @@
-![banner](https://github.com/superbolt/branding/blob/3c1f3df5c6c47cc66a27065828082d883328e43a/assets/branding-banner.jpg)
+![banner](https://github.com/superbolt/branding/blob/75fa267bead931b09be07beaa624fed118c468fc/assets/branding-banner.jpg)
 
 # Superbolt Branding
 Welcome to the Superbolt branding guidelines. Below is a living document outlining the usage restrictions of the Superbolt brand and related assets.
